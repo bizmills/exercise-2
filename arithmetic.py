@@ -10,7 +10,6 @@ def multiply(num1, num2):
 def divide(num1, num2):
     return num1 / num2
 
-# maybe won't work TBD
 def square(num1):
     return num1 ** 2 
 
